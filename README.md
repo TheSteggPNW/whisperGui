@@ -57,6 +57,6 @@ All processing happens locally on your Mac. No audio data is sent to external se
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+This project is licensed under CC BY-NC 4.0 - see https://github.com/TheSteggPNW/whisperGui/LICENSE
 
-Copyright © 2025 Brian Steggeman
+WhisperGUI © 2025 by Brian Steggeman is licensed under CC BY-NC 4.0
