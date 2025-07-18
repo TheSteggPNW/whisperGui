@@ -21,9 +21,10 @@ A native macOS application that provides a graphical interface for OpenAI's Whis
 
 ## Installation
 
-1. Download `WhisperGUI.app`
-2. Move it to your Applications folder
-3. Launch the app
+1. Download `WhisperGUI App.zip`
+2. Extract the application file
+3. Move it to your Applications folder
+4. Launch the app
 
 On first run, the app will download the selected Whisper model (this may take a few minutes depending on model size and internet speed).
 
